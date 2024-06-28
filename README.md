@@ -27,6 +27,8 @@ Q2:CheckOut Another Branch Without Committing Changes?
     git push origin --delete "tag name"
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuYk0fCl-bBgXKaBYOYbcOU4p2907sb_8Hgg&s" alt="">
+
+
+![CR7](images.jpeg)
 
 
